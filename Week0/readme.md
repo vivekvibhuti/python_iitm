@@ -12,3 +12,6 @@ Click on this link __[Top 250 IMDB Movies](https://docs.google.com/spreadsheets/
 * 8 movies from the year 1995 are in the list, the highest,  2004 had 7 movies, while at the third place, 1957 had 6 movies.
 * A total of 60 movies in this list are directed by the top 10 directors!
 * More than 100  directors have 2 or less movies in the list, with a total of 156 directors credited to the overall list.
+
+
+_P.S: This is just a simplistic view of the data, rather than being a full-fleged statistical analysis of it._
