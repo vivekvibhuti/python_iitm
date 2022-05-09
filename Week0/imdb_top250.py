@@ -47,10 +47,6 @@ for index in range(0, len(movies)):
 			"rating": ratings[index],}
 	List.append(data)
 
-# printing movie details with its rating.
-#for movie in list:
-#	print(movie['place'], '-', movie['movie_title'], '('+movie['year'] +
-#		') -', 'Starring:', movie['star_cast'], movie['rating'])
 
 final_json = json.dumps(List)
 
@@ -64,7 +60,7 @@ pd.read_json("imdb_top250.json").to_excel("imdb_top250.xlsx")
 # ------------ Upper part of code is fine, it collects data from IMDB website and stores the parsed values in a json file ------------ #
 
 
-#making a general list for storing all the director names
+#making a general list for storing all the director's names
 
 #initialization of variables
 director_list = []
